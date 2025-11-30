@@ -43,7 +43,7 @@ namespace NinjaTrader.NinjaScript.Indicators
 		{
 			if (State == State.SetDefaults)
 			{
-				Description					= @"Adds a button to the chart trader to breakeven + x the open position";
+				Description					= @"Adds a button to the chart trader to breakeven + x the open position. Visit github for updates https://github.com/ImRobbieRobski/BreakEvenPlusMinus-for-Ninja-Trader/";
 				Name						= "BreakevenPlusXTicks";
 				Calculate					= Calculate.OnBarClose;
 				IsOverlay					= true;
