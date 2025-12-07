@@ -8,6 +8,8 @@ Add up to 4 buttons to your chart, each with their own value above breakeven
 
 Full credit goes to Nobbi. However, I couldn't find any publilcly hosted version of this indicator, and Nobbi isn't actively reachable on any socials. 
 
+## To install properly, download the current version from releases page, not the source code. It should have a sha256 hash.
+
 Follow me on these platforms:
 - https://x.com/imRobbieRobski
 - https://www.youtube.com/@CoastToCoastTradersPodcast
