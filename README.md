@@ -1,4 +1,5 @@
 # BreakEvenPlusMinus for NinjaTrader 8
+[Download Now](https://github.com/ImRobbieRobski/BreakEvenPlusMinus-for-Ninja-Trader/releases/download/v1/BreakevenPlusMinus.zip)
 
 **A simple indicator to add customizable break even buttons.**
 
